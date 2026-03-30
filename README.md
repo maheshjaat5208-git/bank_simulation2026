@@ -3,7 +3,7 @@
 ......
 # Users
   Admin
-  Customr
+  Customer
 #
 first install following libraries
 pillow
